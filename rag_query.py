@@ -35,7 +35,7 @@ CASUAL_CONVERSATIONS = {
 }
 
 # Co:here API setup
-API_KEY = "bfG3xtxmuePvTNe4e4RWNUxuqVj9HigTy3T1jBMx"
+API_KEY = "Type your own API Key"
 cohere_client = cohere.Client(API_KEY)
 
 
