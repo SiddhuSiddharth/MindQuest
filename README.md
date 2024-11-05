@@ -33,10 +33,10 @@ Follow these detailed steps to get a development environment running:
 2. **Import specific requirements**:
   
    ```bash
-   virtualenv -p python3.xx.xx <virtualenvname>
+   virtualenv -p <python3.xx.xx> <virtualenvname>
    pip install -r requirements.txt
    ```
-   This was the command used to create virtual environment using specific py version. Create a virtual environment and install all libraries.
+   This was the command used to create virtual environment using specific py version. Create a virtual environment and install all libraries. For the best results we recommend you use python 3.10.
    
 3. **Run the application**:
   
