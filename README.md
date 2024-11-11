@@ -8,7 +8,7 @@ This RAG chatbot is a simple design for non-technical users. Done with streamlit
 
 - Text Embedding
 - Vector Indexing
-- User-Friendly Summaries
+- User-Friendly Replies
 
 ## Getting Started
 
