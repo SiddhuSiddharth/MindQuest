@@ -63,5 +63,4 @@ This project is built using the Streamlit for the UI and Python for the Models a
 
 ## Credits
 
-- We thank Tata's 1mg for providing a reliable drug database, essential for the accurate functioning of our chatbot.
 - We thank our mentor Dr. Sridevi U K for her guidance and support in building this chatbot.
